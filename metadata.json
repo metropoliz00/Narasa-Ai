@@ -1,0 +1,11 @@
+{
+  "name": "NARASA AI V1",
+  "description": "Platform Contextual Adaptive Learning untuk siswa SD: Foto Apa Saja, Bangun Penalaran melalui literasi, numerasi, observasi, dan presentasi.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
